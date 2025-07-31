@@ -14,8 +14,6 @@
 
 ###
 
-<h2 align="left">Aqui estão algumas das tecnologias que utilizo no meu dia a dia:</h2>
-
 ###
 
 <div align="left">
