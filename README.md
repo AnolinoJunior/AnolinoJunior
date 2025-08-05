@@ -6,7 +6,9 @@
 
 <div align="center">
   
-<p align="left">Me chamo Anolino Alves Dos Santos Junior, Desenvolvedor Back-End, com 30 anos, sempre fui ligado ao meio digital e me dando a chance agora de encarar mais esse desafio. Nasci em Valinhos em São Paulo, Sou um profissional versátil e lógico em busca de se especializar em várias tecnologias. Minha jornada inclui a conclusão do curso de analise de desenvolvimento de sistemas pela faculdade Wyden.</p>
+<p align="left">Oi! Eu sou o Anolino Alves dos Santos Junior, desenvolvedor Back-End de 30 anos. Sempre curti o universo digital e agora estou me dedicando de vez a encarar esse desafio de construir soluções com tecnologia.
+
+Sou natural de Valinhos, São Paulo, e me considero um profissional versátil e lógico, sempre em busca de aprender e me especializar em diferentes tecnologias. Minha trajetória inclui a conclusão do curso de Análise e Desenvolvimento de Sistemas pela faculdade Wyden — e esse é só o começo da jornada!.</p>
 
 ###
 
