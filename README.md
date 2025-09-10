@@ -12,39 +12,18 @@
 
 <p align="left">✨ Criando bugs desde 2024<br>📚 Aperfeiçoando meu inglês <br>🎯 Objetivos: Construir uma carreira equilibrada, que me permita trabalhar com o que gosto e ainda aproveitar momentos com a família<br>🎲 Curiosidade: Fora da programação, gosto de equilibrar corpo e mente: jogo xadrez, vôlei, curto atividades físicas e também sou fã de jogos — tanto online quanto de tabuleiro.</p>
 
-###
 
-<h2 align="left">Tecnologias</h2>
 
-###
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+<div align="center">
+  <a href="https://github.com/AnolinoJunior">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnolinoJunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnolinoJunior&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-###
+ <div style="display: inline_block" align="center"><br>
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=cs,cpp,python,git,github,linux,mysql,dotnet" alt="Skills">
+  </a>
+  </div>
 
-<h2 align="left">Redes Socias :</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/anolino-alves-3b1b95158/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
-###
 
