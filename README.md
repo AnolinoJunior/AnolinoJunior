@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2024<br>📚 Aperfeiçoando meu inglês <br>🎯 Objetivos: Construir uma carreira equilibrada, que me permita trabalhar com o que gosto e ainda aproveitar momentos com a família<br>🎲 Curiosidade: Fora da programação, gosto de equilibrar corpo e mente: jogo xadrez, vôlei, curto atividades físicas e também sou fã de jogos — tanto online quanto de tabuleiro.</p>
+<p align="left">✨ Criando bugs desde 2025<br>📚 Aperfeiçoando meu inglês <br>🎯 Objetivos: Construir uma carreira equilibrada, que me permita trabalhar com o que gosto e ainda aproveitar momentos com a família<br>🎲 Curiosidade: Fora da programação, gosto de equilibrar corpo e mente: jogo xadrez, vôlei, curto atividades físicas e também sou fã de jogos — tanto online quanto de tabuleiro.</p>
 
 
 
