@@ -38,12 +38,12 @@ Gosto de entender como cada parte de uma aplicação funciona: da requisição H
 ## 🧰 Tecnologias e ferramentas
 
 <table align="center">
-  <tr>
-    <td align="center" width="160"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# e .NET" />
-    </td>
-  </tr>
+ <tr>
+  <td align="center" width="160"><b>Linguagens e plataforma</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js" alt="C#, .NET e JavaScript" />
+  </td>
+</tr>
   <tr>
     <td align="center"><b>APIs e persistência</b></td>
     <td>
