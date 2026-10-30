@@ -6,6 +6,9 @@
   <a href="https://github.com/AnolinoJunior">
     <img src="https://img.shields.io/badge/GitHub-AnolinoJunior-1a1b27?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/anolino-alves-3b1b95158/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anolino_Alves-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Anolino Alves" />
+  </a>
   <a href="mailto:anolinojunioralves@gmail.com">
     <img src="https://img.shields.io/badge/Email-anolinojunioralves%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
@@ -28,6 +31,7 @@ Gosto de entender como cada parte de uma aplicação funciona: da requisição H
 - 📚 **Aprofundando conhecimentos em:** autenticação, autorização, integração entre aplicações e qualidade de APIs.
 - 🎯 **Objetivo:** desenvolver sistemas úteis, confiáveis e fáceis de manter.
 - 📫 **Contato:** [anolinojunioralves@gmail.com](mailto:anolinojunioralves@gmail.com)
+- 💼 **LinkedIn:** [Anolino Alves](https://www.linkedin.com/in/anolino-alves-3b1b95158/)
 
 ---
 
@@ -53,6 +57,13 @@ Gosto de entender como cada parte de uma aplicação funciona: da requisição H
     <td>
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Containers</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
     </td>
   </tr>
   <tr>
